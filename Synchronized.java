@@ -1,4 +1,4 @@
-/*class Tle{
+class Tle{
     synchronized void printTle(int n){
         for(int i=1;i<=5;i++){
         System.out.println(n*i);
@@ -37,4 +37,4 @@ class MyThread2 extends Thread{
         t1.start();
         t2.start();
     }
-}*/
+}
